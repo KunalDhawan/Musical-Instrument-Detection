@@ -1,2 +1,6 @@
 # Musical-Instrument-Detection
 A Digital Signal Processing course project aimed at building a system for effective musical instrument detection given a sound recording
+
+In this project, a system for classification of musical instruments belonging to different instrument families is developed , exploiting the various temporal and spectral features that characterize the "timbre" of a particular instrument. Many features covering both spectral and temporal properties and their influences on a musical sound were investigated, and their extraction algorithms were designed.The features were extracted from the dataset that consisted of 558 samples covering the full pitch ranges of 10 orchestral instruments from the string, brass and woodwind families. The classification results consolidated the dependence of an instrument's timbral uniqueness on the features, especially the spectral ones. The correct instrument family was recognized with ~96 % accuracy and individual instruments within the families with over 95 % accuracy for each of the three families considered. Also, a hierarchical classification framework is utilized keeping the mind the taxonomic nature of musical sounds.
+
+Detailed project description is available at: https://kunal-dhawan.weebly.com/musical-instrument-detection.html
